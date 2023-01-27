@@ -1,5 +1,4 @@
 <div>
-    <img align="right" alt="GitHub Profile Picture" width=350 style="object-fit: cover;" src="https://avatars.githubusercontent.com/u/36154558?v=4"/>
 
 <h2>About me</h2>
     
