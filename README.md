@@ -1,15 +1,3 @@
-<p align="center" style="font-family:Sans-Serif; font-size: 40px; color: white;
-  text-shadow: -1px -1px 0 #000, 2px -1px 0 #000, -1px 2px 0 #000, 2px 2px 0 #000;">
-  ⇲ Velorexe ⇱
-  
-</p>
-<p align="center" style="margin-top: -40px;font-family:Sans-Serif; font-size: 18px; color: white;
-  text-shadow: -1px -1px 0 #000, 2px -1px 0 #000, -1px 2px 0 #000, 2px 2px 0 #000;">
-  [ "game developer",  "full-stack wannabe" ]
-  </p>
-
-<br>
-
 <div>
     <img align="right" alt="GitHub Profile Picture" width=350 style="object-fit: cover;" src="https://avatars.githubusercontent.com/u/36154558?v=4"/>
 
