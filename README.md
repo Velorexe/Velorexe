@@ -6,6 +6,8 @@
     * Majored in **Game Development & Simulation**
 - Working / Maintaining **Unity** related frameworks and tools
 - Currently working at [**Quintor**](https://quintor.nl/)
+
+[![Velorexe's Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/8670722?color=orange&label=Velorexe%20(8670722)&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/8670722 "Velorexe's Stack Overflow Reputation")
   
 <h2>Current Skills</h2>
   
