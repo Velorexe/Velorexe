@@ -31,13 +31,4 @@
     <img src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt = ".NET" />
 - <h4> Applications </h4>
     <img src = "https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt = "Unity" />
-
-<h2> Contact </h2>
-
-- Discord: Velorexe#8403
-- Email: degenerexe.code@gmail.com
-- Business Email\*: code@velorexe.com
-
-<p style="font-size: 10px"><i>Note: I do not often check this email, if I don't respond, use my regular email instead</i></p>
-
 </div>
